@@ -1,0 +1,34 @@
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.exe.config
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.exe
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.pdb
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06_MarkupCompile.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06_MarkupCompile.lref
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\MainWindow.baml
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.g.resources
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP_14._06.Properties.Resources.resources
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.exe
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.pdb
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\Window1.g.cs
+C:\Users\Александр\Desktop\Study\Проекты C#\OAiP-14.06\OAiP-14.06\obj\Debug\Window1.baml
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.exe.config
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.exe
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\bin\Debug\OAiP-14.06.pdb
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csproj.AssemblyReference.cache
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\MainWindow.g.cs
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\Window1.g.cs
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\App.g.cs
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06_MarkupCompile.cache
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06_MarkupCompile.lref
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\MainWindow.baml
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\Window1.baml
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.g.resources
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP_14._06.Properties.Resources.resources
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csproj.GenerateResource.cache
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.csproj.CoreCompileInputs.cache
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.exe
+C:\Users\tropo\Desktop\OAiP-14.06-main\OAiP-14.06\OAiP-14.06\obj\Debug\OAiP-14.06.pdb
